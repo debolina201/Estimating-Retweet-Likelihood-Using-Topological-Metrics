@@ -5,6 +5,10 @@ This repository contains documentation from a summer research internship project
 
 The study was conducted using Python, with a focus on network science and statistical modeling, and involved significant use of the **NetworkX** library and **H2O.ai** for predictive modeling.
 
+## 🌍 Why This Is Public
+
+This work is shared openly for anyone who may benefit from studying social graph topology, retweet prediction, or real-world research applications using NetworkX and the Higgs dataset. I hope this serves as a reference or inspiration to students, researchers, or curious minds working on network-based prediction problems.
+
 ---
 
 ## 📁 Contents
