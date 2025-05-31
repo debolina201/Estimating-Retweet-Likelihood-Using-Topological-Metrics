@@ -11,10 +11,10 @@ The study was conducted using Python, with a focus on network science and statis
 
 - `binary_data.csv` and `higgs-retweet_network.edgelist` contain the original and modified datasets derived from the Higgs Twitter dataset, respectively.
 
-- `Internship_Report_2019_Debolina.pdf`  
+- `Internship_Report_2019.pdf`  
   A detailed technical report including literature review, methodology, analysis, and results.
 
-- `Project_Presentation_2019_Debolina.pdf`  
+- `Project_Presentation_2019.pdf`  
   Final presentation slides summarizing the project goals, process, and key findings.
 
 ---
