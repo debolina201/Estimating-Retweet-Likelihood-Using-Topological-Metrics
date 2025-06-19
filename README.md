@@ -1,6 +1,9 @@
 # Estimating Retweet Likelihood Using Topological Metrics 
 ## Summer Research Internship, IIT Patna, 2019
 
+Estimating Retweet Likelihood Using Topological Metrics  © 2019 by Debolina Mahapatra is licensed under CC BY-NC 4.0. 
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+
 This repository contains documentation from a summer research internship project conducted in 2019. The project aimed to estimate the likelihood of a tweet being retweeted, using **topological metrics** derived from the **Twitter Higgs Dataset**. The work involved constructing and analyzing the **social graph** and **retweet graph**, followed by building a **binary classification model** using Generalized Linear Models (GLMs).
 
 The study was conducted using Python, with a focus on network science and statistical modeling, and involved significant use of the **NetworkX** library and **H2O.ai** for predictive modeling.
