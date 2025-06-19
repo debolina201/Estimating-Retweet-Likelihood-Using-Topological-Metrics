@@ -55,3 +55,10 @@ This repository is intended as a documentation archive of the work completed dur
 Though it didn’t become a publication, it shaped my learning deeply. 
 I’m sharing it now as a mark of honoring that effort and my former self who carried so much of this work with silent strength.
 
+## License
+
+This project/report is shared under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
+You may read, share, and cite the content with attribution, but not use it for commercial purposes.
+
+See the [LICENSE](./LICENSE) file for full details.
+
